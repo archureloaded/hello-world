@@ -1,3 +1,2 @@
 # hello-world
-just another repository
-i am archulal de veloper at techise
+i am archulal developer at techise
